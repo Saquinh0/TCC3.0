@@ -1,0 +1,1 @@
+room_goto(Jogo_de_clicar)
