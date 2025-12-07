@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"ReadMe",
+  "name":"ReadMe",
+  "parent":{
+    "name":"atualização0712",
+    "path":"atualização0712.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
